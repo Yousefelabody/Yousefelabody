@@ -8,6 +8,28 @@
 
 Computer Science Graduate passionate about building modern mobile applications using Flutter & Dart.
 
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/yousef-mohamed-116b82263">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yousefelabody@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yousefelabody">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Yousefelabody&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 ---
@@ -33,18 +55,6 @@ Computer Science Graduate passionate about building modern mobile applications u
 
 ---
 
-## 📂 Featured Projects
-
-🔹 **Car Parts Store (Graduation Project)**  
-AI-powered platform recommending compatible car spare parts.
-
-🔹 **Flutter API Applications**  
-Mobile apps connected with REST APIs and dynamic data handling.
-
-🚀 More projects coming soon...
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,14 +62,6 @@ Mobile apps connected with REST APIs and dynamic data handling.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousefelabody&layout=compact&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com?user=Yousefelabody&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/yousef-mohamed-116b82263
-- 💻 GitHub: https://github.com/Yousefelabody
-- 📧 Email: yousefelabody@gmail.com
 
 ---
 
